@@ -1,0 +1,8 @@
+{
+  "project_root": ".",
+  "modules": "CC.Bool.Mul",
+  "entry_points": "",
+  "priority": "",
+  "repo_urls": "https://github.com/Conscience-Constellator/Bool.Mul",
+  "notes": "No mains"
+}
